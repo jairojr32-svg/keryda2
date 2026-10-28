@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.wolfstone-ref
+.opencode
+opencode.json
+*.py
+*.pdf
+*.md
+WhatsApp*
+KR_profile_azul.png
